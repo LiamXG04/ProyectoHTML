@@ -9,15 +9,15 @@ Introduccion del proyecto
 **Introduccion al diseño**:
 
 
-###Lists
+### Lists
 
-####Unordered list (-)
+#### Unordered list (-)
 
 - Item A
 - Item B
 - Item C
      
-####Unordered list (*)
+#### Unordered list (*)
 
 * Item A
 * Item B
