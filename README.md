@@ -36,7 +36,7 @@ Introduccion del proyecto
 </html>
 ```
 
-###Tables
+### Tables
                     
 First Header  | Second Header
 ------------- | -------------
@@ -67,7 +67,7 @@ Content Cell  | Content Cell
                 
 ----
 
-### FlowChart
+###FlowChart
 
 ```flow
 st=>start: Login
@@ -80,7 +80,7 @@ cond(yes)->e
 cond(no)->op
 ```
 
-### Sequence Diagram
+###Sequence Diagram
                     
 ```seq
 Andrew->China: Says Hello 
