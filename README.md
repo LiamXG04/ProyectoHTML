@@ -68,7 +68,7 @@ Content Cell  | Content Cell
 ----
 
 
-###FlowChart
+### FlowChart
 
 ```flow
 st=>start: Login
@@ -81,7 +81,7 @@ cond(yes)->e
 cond(no)->op
 ```
 
-###Sequence Diagram
+### Sequence Diagram
                     
 ```seq
 Andrew->China: Says Hello 
@@ -90,4 +90,4 @@ China-->Andrew: How are you?
 Andrew->>China: I am good thanks!
 ```
 
-###End
+### End
