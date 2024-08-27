@@ -23,9 +23,6 @@ Introduccion del proyecto
 * Item B
 * Item C
 
-* <?php
+<?php
         echo "Hello world!";
     ?>
-    
-
-    
