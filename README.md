@@ -6,6 +6,6 @@ Introduccion del proyecto
 
 
 # Diseño de la pagina
-Introduccion al diseño
+**Introduccion al diseño**:
 
 
